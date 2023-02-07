@@ -11,8 +11,12 @@
             "id": "d35b6fefb5889f56",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SQL/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "SQL/Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "SQL/Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "SQL/Untitled.md"
+          }
         }
       }
     ],
@@ -115,6 +123,12 @@
   },
   "active": "d35b6fefb5889f56",
   "lastOpenFiles": [
+    "WEB Frameworks/API/FastAPI.md",
+    "WEB Frameworks/API/Flask.md",
+    "WEB Frameworks/API/Django.md",
+    "WEB Frameworks/Untitled.md",
+    "Сортировки/Пузырьком.md",
+    "Бинарное дерево/Дерево поиска/Подтверждение True.md",
     "Бинарное дерево/Untitled.md",
     "Untitled.md",
     "Бинарное дерево/Б.Д поиска.md",
