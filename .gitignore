@@ -1,5 +1,5 @@
-.obsidian
-.trash
-.env
-env
+*.obsidian
+*.trash
+*.env
+*env
 
