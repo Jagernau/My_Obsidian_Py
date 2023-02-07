@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Py_матчасть/Типизация.md",
+                "file": "Py_матчасть/Дескрипторы.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Py_матчасть/Типизация.md",
+            "file": "Py_матчасть/Дескрипторы.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Py_матчасть/Типизация.md",
+            "file": "Py_матчасть/Дескрипторы.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,15 +114,16 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Py_матчасть/Типизация.md"
+            "file": "Py_матчасть/Дескрипторы.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "56dcb76a318106bc",
+  "active": "d35b6fefb5889f56",
   "lastOpenFiles": [
+    "Py_матчасть/Типизация.md",
     "SQL/Запросы.md",
     "SQL/Типы полей.md",
     "WEB Frameworks/API/FastAPI.md",
@@ -131,7 +132,6 @@
     "WEB Frameworks/Untitled.md",
     "Сортировки/Пузырьком.md",
     "Бинарное дерево/Дерево поиска/Подтверждение True.md",
-    "Бинарное дерево/Untitled.md",
-    "Бинарное дерево/Б.Д поиска.md"
+    "Бинарное дерево/Untitled.md"
   ]
 }
