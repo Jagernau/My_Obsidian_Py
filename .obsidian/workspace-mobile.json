@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Запросы.md",
+                "file": "Py_матчасть/Типизация.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "SQL/Запросы.md",
+            "file": "Py_матчасть/Типизация.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "SQL/Запросы.md",
+            "file": "Py_матчасть/Типизация.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "SQL/Запросы.md"
+            "file": "Py_матчасть/Типизация.md"
           }
         }
       }
@@ -123,8 +123,8 @@
   },
   "active": "d35b6fefb5889f56",
   "lastOpenFiles": [
-    "SQL/Типы полей.md",
     "SQL/Запросы.md",
+    "SQL/Типы полей.md",
     "WEB Frameworks/API/FastAPI.md",
     "WEB Frameworks/API/Flask.md",
     "WEB Frameworks/API/Django.md",
