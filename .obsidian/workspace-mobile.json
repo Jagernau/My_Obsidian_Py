@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Untitled.md",
+                "file": "SQL/Запросы.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "SQL/Untitled.md",
+            "file": "SQL/Запросы.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "SQL/Untitled.md",
+            "file": "SQL/Запросы.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "SQL/Untitled.md"
+            "file": "SQL/Запросы.md"
           }
         }
       }
@@ -123,6 +123,8 @@
   },
   "active": "d35b6fefb5889f56",
   "lastOpenFiles": [
+    "SQL/Типы полей.md",
+    "SQL/Запросы.md",
     "WEB Frameworks/API/FastAPI.md",
     "WEB Frameworks/API/Flask.md",
     "WEB Frameworks/API/Django.md",
@@ -130,8 +132,6 @@
     "Сортировки/Пузырьком.md",
     "Бинарное дерево/Дерево поиска/Подтверждение True.md",
     "Бинарное дерево/Untitled.md",
-    "Untitled.md",
-    "Бинарное дерево/Б.Д поиска.md",
-    "Screenshot_20230205-232616.png"
+    "Бинарное дерево/Б.Д поиска.md"
   ]
 }
