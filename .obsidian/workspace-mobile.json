@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "f378c937f1239a55",
+    "type": "split",
+    "children": [
+      {
+        "id": "9640a277023ec91d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d35b6fefb5889f56",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "648c78ccf60b1e26",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "56dcb76a318106bc",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d2b59f4e993477be",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4e1613eaaa242984",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "1c2d4b55097521a1",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "0df492c0528c6ddf",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "92218543d55d37ca",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f2ee8c1421a07e1d",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c27ed9e0e4a8242b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "d35b6fefb5889f56",
+  "lastOpenFiles": [
+    "Бинарное дерево/Untitled.md",
+    "Untitled.md",
+    "Бинарное дерево/Б.Д поиска.md",
+    "Screenshot_20230205-232616.png"
+  ]
+}
