@@ -1,3 +1,4 @@
+```python
 class My:
     x = 10  # просто атрибут класса
 
@@ -24,3 +25,4 @@ finally:
     print(id(my))
     print(My.x)
     print(my.y)
+```
